@@ -1,0 +1,26 @@
+.lmj-shopping-list {
+	width: 100%;
+}
+
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.add_button {
+	position: relative;
+	left: 10px;
+	background-color:black;
+	border-radius: 5px;
+	margin-left: 30%;
+	font-style: oblique;
+	color: white;
+}
+
+.add_button:hover {
+	cursor: pointer;
+}
+
